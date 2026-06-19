@@ -1,7 +1,7 @@
 
 {
-  "version": "1.0.7",
-  "url": "https://github.com/MarcosXavier98/update-Bot/releases/download/v1.0.7/PWControl_Setup_v1.0.7.exe",
+  "version": "1.0.5",
+  "url": "https://github.com/MarcosXavier98/update-Bot/releases/download/v1.0.5/PWControl_Setup_v1.0.5.exe",
   "changelog": "- Fix accounts e settings.",
   "blacklist": [
     "hwid",
