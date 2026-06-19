@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/SEU_USUARIO_AQUI/SEU_REPOSITORIO_DE_UPDATES_AQUI/releases/download/v1.0.0/PWControl_Setup_v1.0.0.exe",
+  "version": "1.0.1",
+  "url": "https://github.com/SEU_USUARIO_AQUI/SEU_REPOSITORIO_DE_UPDATES_AQUI/releases/download/v1.0.1/PWControl_Setup_v1.0.1.exe",
   "changelog": "- Primeira versão com atualizador automático integrado.\n- Correção de bugs de licenciamento offline.\n- Correção do crash ao capturar coordenadas do Líder."
 }
