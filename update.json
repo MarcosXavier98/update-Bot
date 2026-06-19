@@ -1,5 +1,10 @@
+
 {
-  "version": "1.0.4",
-  "url": "https://github.com/MarcosXavier98/update-Bot/releases/download/v1.0.4/PWControl_Setup_v1.0.4.exe",
-  "changelog": "- Primeira versão com atualizador automático integrado.\n- Correção de bugs de licenciamento offline.\n- Correção do crash ao capturar coordenadas do Líder."
+  "version": "1.0.5",
+  "url": "https://github.com/MarcosXavier98/update-Bot/releases/download/v1.0.5/PWControl_Setup_v1.0.5.exe",
+  "changelog": "- Adicionado black list.",
+  "blacklist": [
+    "hwid",
+    "hwid2"
+  ]
 }
