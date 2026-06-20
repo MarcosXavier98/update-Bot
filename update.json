@@ -1,8 +1,8 @@
 
 {
-  "version": "1.0.9",
-  "url": "https://github.com/MarcosXavier98/update-Bot/releases/download/1.0.9/PWControl_Setup_v1.0.9.exe",
-  "changelog": "- Adicionado black list hwid.",
+  "version": "1.1.0",
+  "url": "https://github.com/MarcosXavier98/update-Bot/releases/download/1.1.0/PWControl_Setup_v1.1.0.exe",
+  "changelog": "- Fix att",
   "blacklist": [
     "hwid",
     "hwid2"
